@@ -1,0 +1,58 @@
+site_name: Rust · Apuntes
+site_description: Apuntes de Rust siguiendo la estructura de la UD 1 (primer programa).
+site_url: https://apuntes-dam.github.io/rust-apuntes/
+repo_url: https://github.com/apuntes-dam/rust-apuntes
+repo_name: GitHub
+theme:
+  name: material
+  custom_dir: overrides
+  language: es
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+  features:
+    - navigation.indexes
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+extra_css:
+  - assets/extra.css
+  - assets/lenguajes.css?v=2aa74356
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/apuntes-dam/
+      name: Síguenos en GitHub
+copyright: Practica los Lenguajes de Programación para 1º DAM y 2º DAM · <a href="https://github.com/apuntes-dam/">Síguenos en GitHub</a>
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+nav:
+  - Inicio: index.md
+  - Mapa de unidades: unidades.md
+  - "U1 · Primer programa":
+      - u01/index.md
+      - "1.1 Un programa": u01/01-programa.md
+      - "1.2 Práctica con el lenguaje": u01/02-lenguaje.md
+      - "1.3 Tipos de datos": u01/03-tipos.md
+      - "1.4 Pruebas con #[test]": u01/04-pruebas.md
+      - "1.5 Entorno: rustup, cargo y rustc": u01/05-entorno.md
+      - "1.6 Bucles: for, while y loop": u01/06-bucles.md
+      - "Prácticas": u01/practicas.md
+      - "Ejercicios de la unidad 1": u01/ejercicios.md
