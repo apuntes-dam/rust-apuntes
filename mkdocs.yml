@@ -56,3 +56,26 @@ nav:
       - "1.6 Bucles: for, while y loop": u01/06-bucles.md
       - "Prácticas": u01/practicas.md
       - "Ejercicios de la unidad 1": u01/ejercicios.md
+  - "U2 · Estructuras de control":
+      - u02/index.md
+      - "2.1 Condicionales": u02/01-condicionales.md
+      - "2.3 Errores: Result, Option y panic": u02/02-errores.md
+      - "2.4 Depurar": u02/03-depurar.md
+      - "P2.1 · Sentencias condicionales": u02/condicionales.md
+      - "P2.2 · Sentencias iterativas y saltos": u02/bucles.md
+      - "P2.3 · Captura de excepciones": u02/excepciones.md
+      - "P2.4 · Depurar programas": u02/depurar.md
+  - "U3 · Estructuras de datos":
+      - u03/index.md
+      - "3.0 Cadenas": u03/00-cadenas.md
+      - "3.1 Vectores y tuplas": u03/01-vectores.md
+      - "3.2 Mapas": u03/02-mapas.md
+      - "3.3 Conjuntos": u03/03-conjuntos.md
+      - "3.4 JSON": u03/04-json.md
+      - "3.5 XML": u03/05-xml.md
+      - "U3.0 · Cadenas": u03/cadenas.md
+      - "U3.1 · Listas y tuplas": u03/listas.md
+      - "U3.2 · Mapas (diccionarios)": u03/mapas.md
+      - "U3.3 · Conjuntos": u03/conjuntos.md
+      - "U3.4 · JSON": u03/json.md
+      - "U3.5 · XML": u03/xml.md
