@@ -27,7 +27,7 @@ theme:
     - search.highlight
 extra_css:
   - assets/extra.css
-  - assets/lenguajes.css?v=2aa74356
+  - assets/lenguajes.css?v=14f7ebf7
 extra:
   social:
     - icon: fontawesome/brands/github
