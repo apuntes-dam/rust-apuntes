@@ -79,3 +79,34 @@ nav:
       - "U3.3 · Conjuntos": u03/conjuntos.md
       - "U3.4 · JSON": u03/json.md
       - "U3.5 · XML": u03/xml.md
+  - "U4 · Programación orientada a objetos":
+      - u04/index.md
+      - "4.A Structs y métodos": u04/t-structs.md
+      - "4.B Encapsulamiento": u04/t-encapsulamiento.md
+      - "4.C Constructores y enumerados": u04/t-constructores.md
+      - "4.D Colecciones y asociados": u04/t-colecciones.md
+      - "4.E Del problema al programa": u04/t-modelar.md
+      - "U4.1 · Repaso de las unidades 1 a 3": u04/repaso.md
+      - "U4.2 · POO I (ejercicios 1 al 5)": u04/poo-1.md
+      - "U4.3 · POO II (ejercicios 6 al 10)": u04/poo-2.md
+      - "U4.4 · Robots (parte 1)": u04/robots-1.md
+      - "U4.5 · Robots (parte 2 y reto)": u04/robots-2.md
+      - "U4.6 · Prueba: Cafetera y Taza": u04/prueba.md
+      - "U4.7 · Juego del ahorcado (grupos)": u04/proyecto.md
+      - "U4.8 · Cambio de rol: explícamelo tú (grupos)": u04/cambio-de-rol.md
+  - "U5 · Herencia, clases abstractas e interfaces":
+      - u05/index.md
+      - "5.A Traits: contratos compartidos": u05/t-traits.md
+      - "5.B Polimorfismo con trait objects": u05/t-polimorfismo.md
+      - "5.C Comportamiento por defecto": u05/t-default.md
+      - "5.D Jerarquías cerradas con enum": u05/t-cerradas.md
+      - "U5.1 · Clases abstractas, interfaces y herencia": u05/herencia.md
+  - "U6 · Diseño de programas con POO":
+      - u06/index.md
+      - "6.A Diseñar con traits y módulos": u06/t-jerarquia.md
+      - "6.B SOLID: S y O": u06/t-solid-1.md
+      - "6.C SOLID: L, I y D": u06/t-solid-2.md
+      - "6.D Comentarios y documentación": u06/t-documentar.md
+      - "U6.1 · Jerarquía de clases": u06/jerarquia.md
+      - "U6.2 · Principios SOLID": u06/solid.md
+      - "U6.3 · Comentarios y documentación": u06/documentacion.md
