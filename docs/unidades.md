@@ -10,9 +10,11 @@ Recorrido sugerido: **lee la unidad, practícala y marca la casilla del final** 
 | [U4 · Programación orientada a objetos](u04/index.md) | Clases, objetos, constructores, enumerados y un proyecto | 19 | <span class="u-estado" data-unit="u04"></span> |
 | [U5 · Herencia, clases abstractas e interfaces](u05/index.md) | Herencia, polimorfismo, abstractas e interfaces | 10 | <span class="u-estado" data-unit="u05"></span> |
 | [U6 · Diseño de programas con POO](u06/index.md) | Jerarquías, SOLID y documentación | 13 | <span class="u-estado" data-unit="u06"></span> |
+| [U7 · Entrada/salida y GUI](u07/index.md) | Consola, archivos, ficheros de texto e interfaces gráficas | 15 | <span class="u-estado" data-unit="u07"></span> |
+| [U9 · Bases de datos relacionales](u09/index.md) | Conexión, consultas, transacciones y patrón DAO | 9 | <span class="u-estado" data-unit="u09"></span> |
 
 !!! warning "Web en construcción"
-    Por ahora están las **unidades 1 a 6**. Las demás (ficheros, interfaces gráficas y bases de datos) se irán añadiendo.
+    Por ahora están las **unidades 1 a 7 y la 9** (el material original no tiene unidad 8), y falta la sección Avanzado.
 
 !!! info "Cómo funciona el desbloqueo"
     Es un bloqueo **suave**, guardado en tu navegador: sirve para llevar el orden, no para esconder nada. Puedes desbloquear una unidad directamente desde la página de sus ejercicios.
