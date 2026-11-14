@@ -54,6 +54,8 @@ nav:
       - "1.4 Pruebas con #[test]": u01/04-pruebas.md
       - "1.5 Entorno: rustup, cargo y rustc": u01/05-entorno.md
       - "1.6 Bucles: for, while y loop": u01/06-bucles.md
+      - "1.7 Propiedad (ownership)": u01/07-propiedad.md
+      - "1.8 Préstamo y slices (borrowing)": u01/08-prestamo.md
       - "Prácticas": u01/practicas.md
       - "Ejercicios de la unidad 1": u01/ejercicios.md
   - "U2 · Estructuras de control":

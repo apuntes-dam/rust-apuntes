@@ -30,6 +30,8 @@ Reconocer la estructura de un programa Rust e identificar y relacionar los eleme
 4. [Pruebas](04-pruebas.md): `#[test]` y `cargo test`.
 5. [Entorno](05-entorno.md): instalar, compilar y ejecutar.
 6. [Bucles](06-bucles.md): `for`, `while` y `loop`.
+7. [Propiedad (ownership)](07-propiedad.md): dueño único, mover y copiar, `clone`, y `const`/`static`.
+8. [Préstamo y slices (borrowing)](08-prestamo.md): referencias, el verificador de préstamos y slices de texto y de vector.
 
 ## 5. Prácticas
 
